@@ -102,3 +102,7 @@ ENV/
 
 # PyCharm
 .idea/
+obj/
+bin/
+packages/
+v15/
